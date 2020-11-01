@@ -81,8 +81,8 @@ a:hover {
   }
   .center-video {
     display: block;
-    margin-right: 10%;
-    margin-top: 5%;
+    margin-right: auto;
+    margin-top: auto;
     width: 275px;
     height: 275px;
   }
