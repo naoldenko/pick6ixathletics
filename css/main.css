@@ -67,3 +67,90 @@ a:hover {
 #footer {
   text-align: center;
 }
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  #pick-six {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #ultimate {
+    text-align: center;
+    font-size: 30px;
+  }
+  .center-video {
+    display: block;
+    margin-right: 10%;
+    margin-top: 5%;
+    width: 275px;
+    height: 275px;
+  }
+  p {
+    color: white;
+    font-family: "Jockey One", sans-serif;
+    font-size: 30px;
+  }
+  
+  span {
+    color: #f4ec7e;
+  }
+  
+  a {
+    font-family: "Jockey One", sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+  }
+  
+  a:hover {
+    color: #f4ec7e;
+  }
+  
+  #watch {
+    text-align: center;
+  }
+  
+  #about {
+    font-family: "Jockey One", sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+  }
+  
+  #text {
+    width: 325px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  #eric-colonna {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+  }
+  
+  #contact {
+    text-align: center;
+  }
+  
+  #footer {
+    text-align: center;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}
