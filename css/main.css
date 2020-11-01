@@ -1,0 +1,69 @@
+body {
+  background-color: #040d03;
+}
+
+#pick-six {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#ultimate {
+  text-align: center;
+}
+.center-video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+p {
+  color: white;
+  font-family: "Jockey One", sans-serif;
+  font-size: 40px;
+}
+
+span {
+  color: #f4ec7e;
+}
+
+a {
+  font-family: "Jockey One", sans-serif;
+  text-decoration: none;
+  color: white;
+  font-size: 45px;
+}
+
+a:hover {
+  color: #f4ec7e;
+}
+
+#watch {
+  text-align: center;
+}
+
+#about {
+  font-family: "Jockey One", sans-serif;
+  font-size: 40px;
+  color: #ffffff;
+}
+
+#text {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#eric-colonna {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
+
+#contact {
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+}
