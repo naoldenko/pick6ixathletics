@@ -28,7 +28,7 @@ span {
 
 a {
   font-family: "Jockey One", sans-serif;
-  text-decoration: none;
+  text-decoration: underline;
   color: white;
   font-size: 45px;
 }
@@ -98,7 +98,7 @@ a:hover {
   
   a {
     font-family: "Jockey One", sans-serif;
-    text-decoration: none;
+    text-decoration: underline;
     color: white;
     font-size: 30px;
   }
